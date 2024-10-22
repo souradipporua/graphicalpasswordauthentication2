@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://graphical-auth-client.vercel.app/">Graphical Password Authentication</a></h1>
+<h1 align="center"><a href="[https://graphical-auth-client.vercel.app/](https://souradipporua.github.io/graphicalpasswordauthentication2/)">Graphical Password Authentication</a></h1>
 
 
 
@@ -18,7 +18,7 @@ To view screenshots go to <a href="https://github.com/prathamesh-a/graphical-pas
 
 This is my InstagramClone which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and  CSS**.
 
-## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/QrCodeGenerator/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="[https://souradipporua.github.io/QrCodeGenerator/](https://souradipporua.github.io/graphicalpasswordauthentication2/)">**Visit Now** 🚀</a>
 
 <br>
 
