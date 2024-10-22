@@ -1,4 +1,4 @@
-<h1 align="center"><a href="[https://graphical-auth-client.vercel.app/](https://souradipporua.github.io/graphicalpasswordauthentication2/)">Graphical Password Authentication</a></h1>
+<h1 align="center"><a href="(https://souradipporua.github.io/graphicalpasswordauthentication2/)">Graphical Password Authentication</a></h1>
 
 
 
