@@ -11,14 +11,10 @@ To view screenshots go to <a href="https://github.com/prathamesh-a/graphical-pas
 
 
 
-# Generate-QRCode-JavasScript
- Generate QRCode for anything!
-# QrCodeGenerator
-## ⭐ QrCodeGenerator ⭐
 
-This is my InstagramClone which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and  CSS**.
 
-## 📌 **Live Site URL:** <a href="[https://souradipporua.github.io/QrCodeGenerator/](https://souradipporua.github.io/graphicalpasswordauthentication2/)">**Visit Now** 🚀</a>
+
+## 📌 **Live Site URL:** <a href="https://souradipporua.github.io/graphicalpasswordauthentication2/">**Visit Now** 🚀</a>
 
 <br>
 
